@@ -1,2 +1,2 @@
-# Player
-Music Player
+# MusicPlayer
+Music Player Web App
